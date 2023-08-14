@@ -22,4 +22,5 @@ const script = document.createElement("script");<br>
 script.src = "/src/widget/bundle.js";<br>
 script.async = true;<br>
 document.body.appendChild(script);<br><br>
-далее разместить в нужном месте "<div id="widget"></div>"
+далее разместить в нужном месте div с id="widget"
+
